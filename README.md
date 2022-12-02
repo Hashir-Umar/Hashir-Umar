@@ -11,18 +11,20 @@
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![kotlin](https://img.shields.io/badge/Kotlin-12?style=for-the-badge&logo=kotlin&logoColor=white)
+![kotlin](https://img.shields.io/badge/Kotlin-DE7042?style=for-the-badge&logo=kotlin&logoColor=white)
+![php](https://img.shields.io/badge/PHP-7175AA?style=for-the-badge&logo=php&logoColor=white)
 
 ### Development
 
 ![node](https://img.shields.io/badge/Node-21231A?style=for-the-badge&logo=nodedotjs&logoColor=68a063)
-![express](https://img.shields.io/badge/Node-21231A?style=for-the-badge&logo=nodedotjs&logoColor=3460A6)
+![express](https://img.shields.io/badge/Express-21231A?style=for-the-badge&logo=nodedotjs&logoColor=3460A6)
 ![nest](https://img.shields.io/badge/Nest-21231A?style=for-the-badge&logo=nestjs&logoColor=D5214A)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![next](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
 ![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![redux-toolkit](https://img.shields.io/badge/redux%20toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![react-router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![pwa](https://img.shields.io/badge/Progressive_Web_App-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+![pwa](https://img.shields.io/badge/PWA-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
 ![antd](https://img.shields.io/badge/AntD-21231A?style=for-the-badge&logo=AntDesign&logoColor=108EE9)
 ![material-ui](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
 ![graphql](https://img.shields.io/badge/GraphQL-E434AA?style=for-the-badge&logo=graphql&logoColor=white)
