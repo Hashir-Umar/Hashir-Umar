@@ -63,8 +63,6 @@
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=hashir-umar&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
     <br />
-    <br />
-    <img src="https://github-readme-stats.vercel.app/api?username=hashir-umar&count_private=true&include_all_commits=true&show_icons=true&theme=radical&hide=contribs,prs" alt="Hashir Umar's GitHub Stats">
 </div>
 
 ## 🔗 Links
